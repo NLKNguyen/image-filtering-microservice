@@ -1,5 +1,5 @@
 {
-  "name": "udacity-c2-image-filter",
+  "name": "image-filtering-microservice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,8 +13,8 @@
     "type": "git",
     "url": "git+https://github.com/grutt/udacity-c2-image-filter.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Nikyle Nguyen",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/grutt/udacity-c2-image-filter/issues"
   },

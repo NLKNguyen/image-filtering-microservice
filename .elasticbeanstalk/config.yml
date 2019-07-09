@@ -1,4 +1,6 @@
 branch-defaults:
+  dev:
+    environment: image-filtering-microservice-dev
   ft_endpoint:
     environment: null
     group_suffix: null
